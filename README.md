@@ -3,7 +3,8 @@
 > a patient's body and head temperature without making some form of
 > contact. This project intends to provide a low-cost solution to
 > build out a contactless thermal camera using the Melexis MLX90640
-> and ESP32 (Wia Dot One in the video) connected over I2C.
+> and ESP32 (Wia Dot One in the video) connected over I2C. Data is
+> then sent via BLE and captured on a browser using Web Bluetooth.
 
 View on YouTube [here](https://youtu.be/yu9xXQP38FY)
 
